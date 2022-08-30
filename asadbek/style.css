@@ -1,0 +1,22 @@
+
+.view {
+    margin: 50px 70px 0px 30px;
+    background-color: #0A8BFE;
+    color: #FFFFFF;
+    padding: 16px 30px 16px 30px;
+    border: none;
+    border-radius: 5px;
+    transition: opacity 0.15s;
+}
+
+.view:hover {
+    opacity: 0.8;
+}
+
+.view:active {
+    opacity: 0.5;
+}
+
+.view:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
