@@ -3,21 +3,24 @@
     text-align: center;
 }
 .from{
+    
     margin-top: 50px;
     margin-left: 670px;
     align-items: center;
     text-decoration: none;
     padding: 14px 28px;
     border-radius: 19px;
-    background-color: rgb(25, 14, 130);
+    background-color: rgb(227, 224, 237);
     margin-bottom: 100px;
+    border: none;
+    text-decoration: none;
 }
 .bonsai{
     margin-left: -150px;
 }
 
 .from{
-    box-shadow: 3px 3px 8px 10px rgb(21, 87, 109);
+    box-shadow: 3px 3px 10px rgb(22, 51, 60);
    padding-bottom: 18px;
 }
 .big{
