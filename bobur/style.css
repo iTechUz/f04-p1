@@ -1,18 +1,104 @@
-h1{
-    color: blue;
+.hello{
+    color: rgb(49, 173, 12);
+    text-align: center;
 }
 .from{
-    border: none;
+    margin-top: 50px;
+    margin-left: 670px;
+    align-items: center;
+    text-decoration: none;
     padding: 14px 28px;
     border-radius: 19px;
-    background-color: rgb(113, 106, 179);
+    background-color: rgb(25, 14, 130);
+    margin-bottom: 100px;
 }
-a{
-    color: black;
-    text-decoration:none;
+.bonsai{
+    margin-left: -150px;
+}
+
+.from{
+    box-shadow: 3px 3px 8px 10px rgb(21, 87, 109);
+   padding-bottom: 18px;
+}
+.big{
+    padding-top: 68px;
     
 }
-button{
-    box-shadow: 3px 3px 8px 10px rgb(21, 87, 109);
-   
+section{
+    
+    background: url(./img/Rectangle.png);
+margin-left: 123px;
+height: 680px;
+background-repeat: no-repeat;
+
+
+}
+.product{
+    margin-top: 12px;
+    margin-right: -700px;
+
+    font-weight: 400;
+    font-size: 17px;
+    color: #4C4D5F;    
+}
+.start{
+    padding: 12px 28px;
+    margin-left:-115px;
+background: #00B289;
+border: 1px solid #00B289;
+border-radius: 4px;
+font-weight: 700;
+font-size: 13px;
+text-align: center;
+letter-spacing: 0.6px;
+text-transform: uppercase;
+color: #FFFFFF;
+border: none;
+}
+.login{
+    padding: 12px 23px;
+    margin-right: -305px;
+    border: 1px solid #00B289;
+border-radius: 4px;
+font-weight: 700;
+font-size: 13px;
+text-align: center;
+letter-spacing: 0.6px;
+text-transform: uppercase;
+color: #00B289;
+}
+.everything{
+    padding-top: 150px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 39px;
+    padding-bottom: 16px;
+    
+}
+.lorem{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #4C4D5F;  
+    padding-bottom: 100px;  
+}
+.all_1{
+    background: #00B289;
+border-radius: 0px 4px 4px 0px;
+margin-left: -112px;
+text-align: center;
+width: 150px;
+height: 50px;
+border: 2px solid #01B289;
+}
+.all{
+    margin-bottom: 100px;
+padding-left: 25px;
+    background: #FFFFFF;
+border: 2px solid #01B289;
+border-radius: 4px 0px 0px 4px;
+width: 330px;
+height: 50px;
 }
