@@ -1,49 +1,67 @@
 *{
-    margin: 0px;
-    padding: 0px;
-    font-family: 'Roboto';
-}
-.prod{
-    list-style: none;
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 17px;
-line-height: 22px;
-color: #4C4D5F;
+    margin: 0;
+    padding: 0;
 }
 
-.inlogo{ 
-border: 1px solid #00B289;
-border-radius: 4px;
-}
-.start{
-   
-    background: #00B289;
-border: 1px solid #00B289;
-border-radius: 7px;
-
-}
-.do{
+.flexBtn{
     display: flex;
+}
+
+
+nav{
+    padding-top: 40px;
+}
+
+.btn-ligh{
+    margin-left: 30px;
+   border-color: rgb(11, 199, 52)  ;
+}
+
+.btn-success{
+    margin-left: 30px;
+}
+
+
+header{
+    
+    background: url(../img/Rectangle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
-#path{
-   font-size:9px;
+.Every{
+    margin: 0px 140px 30px 10px;
+    margin-top: 154px;
+    margin-bottom: 25px;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 62px;
+    color: #4C4D5F;
+    
 }
-.every{
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 45px;
-color: #4C4D5F;
-}
-.run{
-    font-family: 'Roboto';
-font-style: normal;
+.bonsai{
+    padding: 0px 50px 20px 10px;
 font-weight: 400;
 font-size: 20px;
 line-height: 32px;
 color: #4C4D5F;
-
+}
+.enter{
+    padding: 19px 179px 24px 28px;
+background: #FFFFFF;
+border: 2px solid #01B289;
+border-radius: 4px 0px 0px 4px;
+ font-size: 20px;
+}
+.start{
+    padding: 26px 25px 27px 30px;
+    background: #00B289;
+border-radius: 0px 4px 4px 0px;
+border-style: none;
+color: #FFFFFF;
+margin-bottom: 100px;
+margin-left: -5px;
+}
+.logi{
+    padding-top: 36px;
 }
