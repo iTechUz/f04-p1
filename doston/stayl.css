@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto';
+}
+.prod{
+    list-style: none;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 22px;
+color: #4C4D5F;
+}
+
+.inlogo{ 
+border: 1px solid #00B289;
+border-radius: 4px;
+}
+.start{
+   
+    background: #00B289;
+border: 1px solid #00B289;
+border-radius: 7px;
+
+}
+.do{
+    display: flex;
+
+}
+#path{
+   font-size:9px;
+}
+.every{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+color: #4C4D5F;
+}
+.run{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+color: #4C4D5F;
+
+}
