@@ -68,20 +68,17 @@ nav{
 
   .email{
     padding: 25px 179px 25px 28px;
-    border-radius: 5px;
+    border-radius: 5px 0 0 5px;
     border: 1px solid #00B289;
-    border-top-right-radius: 0% ;
-    border-bottom-right-radius: 0%; 
+    
 
   }
   .start{
     padding: 25px 30px;
     margin-left: -7px;
-    border-radius: 5px;
+    border-radius: 0 5px 5px 0;
     background-color: #fff;
     border: 1px solid #00B289;
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0%;
   }
   .start:hover{
     color: #fff;
