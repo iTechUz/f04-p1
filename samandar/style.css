@@ -144,7 +144,7 @@ padding-left: 20px;
   .section_text{
    background-repeat: no-repeat;
    background-size: cover;
-    background: url(../img/Rectangle1.png);
+    background: url(./img/Rectangle1.png);
     padding-bottom: 300px;
     position: relative;
   }
