@@ -92,4 +92,112 @@ nav{
   .sectionp{
     margin: auto;
     width: 530px;
+    color: gray;
+    padding-bottom: 80px;
+  }
+
+  .picture{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 234px;
+  }
+
+  .Shape_but{
+    /* padding: 23px 180px 23px 64px; */
+    width: 360px;
+    height: 70px;
+    background-color: #fff;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-color: bisque;
+    text-align: left;
+    font-weight: 400;
+font-size: 23px;
+  }
+
+  .Shape_but:hover{
+    box-shadow: 1px 1px 15px green;
+    box-sizing: content-box;
+    color: #00B289;
+  }
+  .shape{
+padding-right: 20px;
+padding-left: 20px;
+  }
+
+  .win{
+    padding-top: 42px;
+    text-align: start;
+    font-weight: 400;
+  font-size: 44px;
+  }
+
+  .with{
+    width: 340px;
+    color: gray;
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 30px;
+  }
+  
+  .section_text{
+   background-repeat: no-repeat;
+   background-size: cover;
+    background: url(../img/Rectangle1.png);
+    padding-bottom: 300px;
+    position: relative;
+  }
+
+  .explore{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    color: #00B289;
+
+
+  }
+  .girl{
+margin-left: 150px;
+width: 410px;
+height: 306px;
+  }
+
+  .trusted{
+    text-align: center;
+    padding-top: 230px;
+    padding-bottom: 48px;
+    font-size: 46px;
+    margin: auto;
+
+  }
+
+  .whether{
+    width: 700px;
+    color: gray;
+    font-size: 25px;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 85px;
+  }
+
+  .card1{
+  padding-bottom: 30px;
+  }
+
+  .built{
+    font-weight: 700;
+    font-size: 23px;
+    padding-bottom: 14px;
+    padding-top: 30px;
+  }
+
+  .we{
+    font-weight: 400;
+    font-size: 17px;
+    color: #4C4D5F9C;
+  width: 350px;  }
+
+  .dont{
+    padding-top: 200px;
   }
