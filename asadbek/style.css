@@ -45,12 +45,14 @@ header{
     transition: opacity 0.15s;
 }
 
-.log_in:hover{
+.log_in:hover {
     opacity: 0.7;
 }
-.log_in:active{
+
+.log_in:active {
     opacity: 0.4;
 }
+
 .log_in:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
 }
@@ -67,12 +69,15 @@ header{
     border-radius: 4px;
     transition: opacity 0.15s;
 }
-.start:hover{
+
+.start:hover {
     opacity: 0.7;
 }
-.start:active{
+
+.start:active {
     opacity: 0.4;
 }
+
 .start:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
 }
@@ -104,12 +109,15 @@ header{
     color: rgba(0, 0, 0, 0.39);
     transition: opacity 0.15s;
 }
-.entert-btn:hover{
+
+.entert-btn:hover {
     opacity: 0.8;
 }
-.entert-btn:active{
+
+.entert-btn:active {
     opacity: 0.5;
 }
+
 .entert-btn:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
 }
@@ -125,12 +133,61 @@ header{
     border-radius: 0px 4px 4px 0px;
     transition: opacity 0.15s;
 }
-.free-btn:hover{
+
+.free-btn:hover {
     opacity: 0.8;
+
 }
-.free-btn:active{
+
+.free-btn:active {
     opacity: 0.5;
 }
+
 .free-btn:hover {
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.15);
 }
+
+.section-1 {
+    margin-top: 166px;
+}
+
+
+.Make-heading {
+    font-weight: 500;
+    font-size: 43px;
+    text-align: center;
+    color: #4C4D5F;
+
+}
+
+.bonsai-2 {
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    color: rgba(76, 77, 95, 0.66);
+    margin: 35px 320px 80px 320px;
+}
+
+.without {
+    font-weight: 700;
+    font-size: 23px;
+    text-align: center;
+    color: #4C4D5F;
+    padding: 0px 20px 45px 0px;
+}
+
+.with {
+    font-weight: 700;
+    font-size: 23px;
+    text-align: center;
+    color: #4C4D5F;
+    padding-right: 50px;
+    padding: 0px 20px 45px 0px;
+}
+.left{
+padding: 0px 140px 0px 80px;
+}
+.right{
+padding: 0px 170px 0px 100px;
+}
+
