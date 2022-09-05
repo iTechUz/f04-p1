@@ -3,21 +3,24 @@
     text-align: center;
 }
 .from{
+    
     margin-top: 50px;
     margin-left: 670px;
     align-items: center;
     text-decoration: none;
     padding: 14px 28px;
     border-radius: 19px;
-    background-color: rgb(25, 14, 130);
+    background-color: rgb(227, 224, 237);
     margin-bottom: 100px;
+    border: none;
+    text-decoration: none;
 }
 .bonsai{
     margin-left: -150px;
 }
 
 .from{
-    box-shadow: 3px 3px 8px 10px rgb(21, 87, 109);
+    box-shadow: 3px 3px 10px rgb(22, 51, 60);
    padding-bottom: 18px;
 }
 .big{
@@ -26,7 +29,7 @@
 }
 section{
     
-    background: url(./img/Rectangle.png);
+    background: url(./img/Rectangle\ \(2\).png);
 margin-left: 123px;
 height: 680px;
 background-repeat: no-repeat;
@@ -101,4 +104,143 @@ border: 2px solid #01B289;
 border-radius: 4px 0px 0px 4px;
 width: 330px;
 height: 50px;
+}
+.more{
+    font-weight: 400;
+font-size: 24px;
+text-align: center;
+color: rgba(76, 77, 95, 0.66);
+padding-bottom: 56px;
+}
+.make{
+    font-weight: 400;
+font-size: 43px;
+text-align: center;
+color: #4C4D5F;
+}
+.without{
+    font-weight: 700;
+font-size: 23px;
+text-align: center;
+color: #4C4D5F;
+}
+.line{
+    margin-top: 40px;
+}
+.dropdown{
+    margin-left: 400px;
+    padding: 3px 20px;
+}
+.from1{
+    font-weight: 400;
+font-size: 22px;
+color: #4C525A;
+}
+.from2{
+    padding: 30px 3px;
+    background: #FFFFFF;
+box-shadow: 1px 1px 60px rgba(2, 4, 69, 0.06);
+border-radius: 4px;
+    font-weight: 400;
+font-size: 22px;
+color: #4C525A;
+}
+div1{
+    background: url(./img/Rectangle\ \(1\).png);
+    height: 770px;
+
+}
+.can{
+    background-color: #01B289;
+    margin-top: 320px;
+   
+}
+.content{
+    font-size: 24px;
+    margin-top: -350px;
+    margin-left: -900px;
+}
+.by{
+    margin-left: -900px;
+}
+.your1{
+    font-weight: 700;
+font-size: 23px;
+color: #4C4D5F;
+
+    padding-left: 120px;
+}
+.has1{
+    padding-left: 140px;
+
+}
+.just1{
+    padding-left: 140px;
+
+}
+.your{
+    font-weight: 700;
+font-size: 23px;
+color: #4C4D5F;
+
+    padding-right: 145px;
+}
+.has{
+    padding-right: 145px;
+
+}
+.just{
+    padding-right: 145px;
+
+}
+.from1:hover{
+    transition: 1.4s;
+
+    padding: 30px 3px;
+    background: #ffffffeb;
+box-shadow: 2px 2px 60px rgba(2, 4, 69, 0.06);
+border-radius: 4px;
+    font-weight: 500;
+font-size: 32px;
+color: #083b7e;
+    
+}
+.from2:hover{
+    transition: 1.4s;
+    padding: 30px 3px;
+    background: #ffffffeb;
+box-shadow: 2px 2px 60px rgba(2, 4, 69, 0.06);
+border-radius: 4px;
+    font-weight: 500;
+font-size: 32px;
+color: #083b7e;
+    
+}
+.start:hover{
+    background-color: #0f5c03cf;
+color: rgb(21, 255, 0);
+
+
+}
+.login:hover{
+    background-color: #0f5c03cf;
+color: rgb(21, 255, 0);
+
+
+}
+.from:hover{
+    background-color: #e2a6eadb;
+color: rgb(21, 255, 0);
+
+
+}
+.all:hover{
+    background-color: rgba(240, 230, 230, 0.945);
+    color: #01B289;
+    font-size: larger;
+}
+.all_1:hover{
+    background-color: rgba(80, 234, 38, 0.945);
+    color: #f6faf8;
+    font-size: larger;
 }
