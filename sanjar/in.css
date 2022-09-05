@@ -1,0 +1,300 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+
+
+
+
+.section00{
+    background-color: white;
+    position: relative;
+}
+.phhoto{
+    position: absolute;
+    display: block;
+}
+
+.uchlik{
+    display: flex;
+
+}
+
+
+
+.picture{
+    margin: start;
+    padding-top: 40px;
+}
+
+.bonn{
+    margin-left: 700px;
+    padding-top: 40px;
+    border-radius: none;
+ 
+}
+
+
+.tbaa{
+    width: 100px;
+    height: 42px;
+    color:#00B289;
+    border: 2px solid #00B289;
+    background: url(../img/Rectangle.png);
+
+}
+
+.tbaa:hover{
+    background-color: yellow;
+    transition: 1s;
+    border-radius: 15px;
+}
+
+
+.joyj{
+    width: 120px;
+    height: 42px;
+    color:white;
+    border: none;
+    background-color:#00B289;
+
+}
+.joyj:hover{
+    background-color: rgb(240, 240, 49);
+    transition: 1s;
+    border-radius: 15px;
+   
+}
+
+.voons{
+    margin-left: 85px;
+    padding-top: 40px;
+    position: relative;
+    text-decoration: transparent;
+background: url(../img/Rectangle.png);
+}
+
+.doonf{
+    padding-top: 40px;
+margin-left: 25px;
+position: relative;
+
+
+}
+
+.dropdown-menu{
+    background-color:#00B289;
+    border: none;
+}
+
+.dropdown-item:hover{
+    background-color: yellow;
+    transition: 1s;
+    border-radius: 15px;   
+}
+
+.dropdown-item{
+    color: yellow;
+    border: none;
+    
+}
+
+.hashbir{
+    padding-top: 190px;
+    position: absolute;
+    margin-right:650px;
+}
+
+.anol{
+  color: #4C4D5F;
+}
+
+.aek{
+  color: #4C4D5F;
+
+}
+
+.twoo{
+    color: #4C4D5F;
+
+}
+
+
+
+.smaalsti{
+    position: absolute;
+    padding-top: 385px;
+    margin-right:200px;
+    color:#4C4D5F;
+    font-size: 20px;
+}
+
+.imb{
+    position: absolute;
+    padding-top: 515px;
+
+}
+
+.ddd{
+    border: 3px solid #00B289;
+    padding: 20px 122px 20px 26px;
+    position: relative;
+    color: rgba(0, 0, 0, 0.39);
+}
+
+.ortt{
+    width: 140px;
+    height: 70px;
+    background-color: #00B289;
+    color: white;
+    border: none;
+    margin-right:10px;
+    position: absolute;
+
+    
+}
+
+.bigtexting{
+    padding-top:780px;
+    color: #4C4D5F;
+    font-size: 43px;
+    justify-content: center;
+    text-align: center;
+    padding-right: 70px;
+}
+
+.lot{
+    color: rgba(76, 77, 95, 0.66);
+    font-size: 24px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 35px;
+    padding-right: 45px;
+}
+
+
+.umumiy{
+    font-size: 23px;
+    color: #4C4D5F;
+    padding-top: 80px;
+    display: flex;
+
+}
+
+.yon{
+    padding-left: 235px;
+    color: #4C4D5F;
+    font-size: 23px;
+}
+
+.rit{
+    padding-left: 520px;
+    color: #4C4D5F;
+    font-size: 23px;
+}
+
+.ehoi{
+    color: red;
+    font-size: 70px;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.gig{
+    display: flex;
+   
+}
+
+
+.rasvan{
+    padding-right: 100px;
+    position: relative;
+    padding-bottom: 85px;
+    
+}
+
+.surtt{
+   padding-left: 125px;
+   padding-top: 120px;
+   position: absolute;
+  
+
+}
+
+.burchak{
+    position: absolute;
+  padding-left: 200px;
+}
+
+
+.gig{  
+  margin-right: 220px;
+}
+
+.sectionikki{
+    height: 1200px;
+}
+
+.batpas{
+    padding-top: 170px;
+    padding-left: 50px;
+}
+
+.avan{
+    display: flex;
+    justify-content: space-between;
+}
+
+.con{
+   padding-top: 15px;
+}
+
+.nine{
+   padding-top: 15px;
+
+}
+
+.kattasoz{
+    border: 2px solid red;
+    padding: left 220px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
