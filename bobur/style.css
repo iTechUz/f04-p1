@@ -193,3 +193,54 @@ color: #4C4D5F;
     padding-right: 145px;
 
 }
+.from1:hover{
+    transition: 1.4s;
+
+    padding: 30px 3px;
+    background: #ffffffeb;
+box-shadow: 2px 2px 60px rgba(2, 4, 69, 0.06);
+border-radius: 4px;
+    font-weight: 500;
+font-size: 32px;
+color: #083b7e;
+    
+}
+.from2:hover{
+    transition: 1.4s;
+    padding: 30px 3px;
+    background: #ffffffeb;
+box-shadow: 2px 2px 60px rgba(2, 4, 69, 0.06);
+border-radius: 4px;
+    font-weight: 500;
+font-size: 32px;
+color: #083b7e;
+    
+}
+.start:hover{
+    background-color: #0f5c03cf;
+color: rgb(21, 255, 0);
+
+
+}
+.login:hover{
+    background-color: #0f5c03cf;
+color: rgb(21, 255, 0);
+
+
+}
+.from:hover{
+    background-color: #e2a6eadb;
+color: rgb(21, 255, 0);
+
+
+}
+.all:hover{
+    background-color: rgba(240, 230, 230, 0.945);
+    color: #01B289;
+    font-size: larger;
+}
+.all_1:hover{
+    background-color: rgba(80, 234, 38, 0.945);
+    color: #f6faf8;
+    font-size: larger;
+}
