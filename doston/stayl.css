@@ -24,7 +24,7 @@ nav{
 
 header{
     
-    background: url(../img/Rectangle.png);
+    background: url(../img/backround\ uchbur.png);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -64,4 +64,129 @@ margin-left: -5px;
 }
 .logi{
     padding-top: 36px;
+}
+.Make{
+    margin-top: 35px;
+font-weight: 400;
+font-size: 43px;
+line-height: 44px;
+text-align: center;
+color: #4C4D5F;
+}
+.Bonsai{
+    padding-top: 35px;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+color: rgba(76, 77, 95, 0.66);
+}
+.wit1{
+    padding-bottom: 45px;
+    padding-top: 80px;
+    margin: auto;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 28px;
+    text-align: center;
+    color: #4C4D5F;
+}
+.below{
+    display: flex;
+}
+#btn_collection{
+    padding-top: 3%;
+}
+.btn-group{
+    margin-top: 29px;
+   font-size: 29px;
+}
+.button{
+    margin: 20px 82px;
+    font-size: 30px;
+}
+.btn{
+    padding:38px 29px 38px 400px;
+}
+.bbttop{
+    margin: 10px 20px 20px 20px;
+}
+.win{
+    margin-top: 80PX;
+font-weight: 400;
+font-size: 44px;
+line-height: 44px;
+color: #4C4D5F;
+text-align: center;
+}
+.with2{
+    Width:356px;
+    Height:96px;
+    margin-top: 15px;
+margin-left: 150px;
+font-weight: 400;
+font-size: 22px;
+line-height: 32px;
+color: rgba(76, 77, 95, 0.58);
+
+}
+.explore{
+    margin: 87px 155px;
+    font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.5px;
+text-transform: uppercase;
+color: #01B289;
+}
+.arrow{
+    margin-top: 28px;
+}
+
+.btn-group-vertical>.btn, .btn-group>.btn{
+    padding: 15px 50px;
+}
+
+.btn .btn-secondary .dropdown-toggle{
+    display: flex;
+    justify-content: space-between;
+}
+.erik{
+    margin-right: 29px;
+}
+.dropdown-toggle::after {
+    margin: auto;
+
+}
+#bbttop{
+   margin-top:d59px;
+}
+
+.choose{
+    display: flex;
+}
+.section2{
+    background: url(../img/makron\ sochn\ \ orqadidagi\ backround.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.btn-secondary {
+margin-left: 29px;
+
+}
+.have{
+    margin-left: 350px;
+    margin-top: -129px;
+    margin-bottom: 250px;
+    
+}
+.with3{
+    padding-top:48px;
+    Width:526px;
+margin:auto;
+font-weight: 400;
+font-size: 22px;
+line-height: 32px;
+color: rgba(76, 77, 95, 0.58);
+
 }
